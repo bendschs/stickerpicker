@@ -1,7 +1,8 @@
 {
   "packs": [
     "PikachuDetective.json",
-    "chimps.json"
+    "chimps.json",
+    "bendsch.json"
   ],
   "homeserver_url": "https://matrix.agreiter.ch"
 }

@@ -12,7 +12,8 @@
     "Totoro.json",
     "plasticovayazhizn.json",
     "MrRat.json",
-    "ToyStory.json"
+    "ToyStory.json",
+    "DoctorBubonic.json"
   ],
   "homeserver_url": "https://matrix.agreiter.ch"
 }

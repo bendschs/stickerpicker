@@ -13,7 +13,8 @@
     "plasticovayazhizn.json",
     "MrRat.json",
     "ToyStory.json",
-    "DoctorBubonic.json"
+    "DoctorBubonic.json", 
+"ChristmasSquirrel.json"
   ],
   "homeserver_url": "https://matrix.agreiter.ch"
 }

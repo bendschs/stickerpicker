@@ -11,10 +11,10 @@
     "MexicanAxolotl.json",
     "Totoro.json",
     "plasticovayazhizn.json",
-    "MrRat.json",
     "ToyStory.json",
     "DoctorBubonic.json", 
-"SweetyBee.json"
+"SweetyBee.json", 
+"MrRat.json"
   ],
   "homeserver_url": "https://matrix.agreiter.ch"
 }
